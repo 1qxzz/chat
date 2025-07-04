@@ -1,0 +1,9 @@
+﻿[
+  {
+  "FileName": "name",
+  "FileSize": "10",
+  "FileType": "你好，这是私聊消息",
+  "FileContentBase64": "xxx"
+  "Timestamp": "2023-05-20T14:30:00Z"
+  }
+]

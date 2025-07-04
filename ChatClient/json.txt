@@ -1,0 +1,9 @@
+﻿[
+  {
+  "Type": "Private", 
+  "Sender": "Alice",
+  "Receiver": "Bob",
+  "Content": "你好，这是私聊消息",
+  "Timestamp": "2023-05-20T14:30:00Z"
+  }
+]
